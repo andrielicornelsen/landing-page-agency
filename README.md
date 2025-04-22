@@ -1,6 +1,7 @@
 Modern and responsive landing page for a digital creative agency. Built with pure HTML5 and CSS3, focused on conversion and great user experience.
 
-![preview](./preview.png)
+![preview](./preview.![preview](https://github.com/user-attachments/assets/682b3775-e2f5-486b-bc87-880512478221)
+png)
 
 ## Features
 
